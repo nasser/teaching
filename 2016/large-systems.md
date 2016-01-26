@@ -14,5 +14,5 @@ year: 2016
 ### Posts
 {% assign posts = site.posts | where: "school", page.school | where: "class", page.class | where: "semester", page.semester | where: "year", page.year | sort: "year" | reverse %}
 {% for post in posts %}
-*{{ post.date | date_to_string }}* [{{ post.title }}]({{ post.id }}) 
+*{{ post.date | date_to_string }}* [{{ post.title }}]({{ site.url }}/{{ post.id }}) 
 {% endfor %}
