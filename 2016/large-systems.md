@@ -9,10 +9,11 @@ year: 2016
 
 ![](http://clipartfreefor.com/cliparts/internet-clipart/cliparti1_internet-clipart_02.jpg)
 
-[Sylabus]({{ site.url }}/{{ page.year }}/{{ page.class | slugify }}/syllabus.pdf)
+## Resources
 
-### Posts
-{% assign posts = site.posts | where: "school", page.school | where: "class", page.class | where: "semester", page.semester | where: "year", page.year | sort: "year" | reverse %}
-{% for post in posts %}
-*{{ post.date | date_to_string }}* [{{ post.title }}]({{ site.url }}/{{ post.id }}) 
-{% endfor %}
+[Sylabus](syllabus.pdf) &bull; [Software](software)
+
+## Classes
+
+*2 Feb 2016* [Slides](week-2/slides) &bull; [Board](week-2/board) &bull; [Homework](week-2/homework)  
+*25 Jan 2016* [Intro & Homework](week-1/intro)  
