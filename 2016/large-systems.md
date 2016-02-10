@@ -15,5 +15,6 @@ year: 2016
 
 ## Classes
 
+*9 Feb 2016* [Slides](week-3/slides) &bull; [Board](week-3/board) &bull; [Homework](week-3/homework) &bull; [Code](https://gist.github.com/nasser/dc6c9b25628426acfe32)  
 *2 Feb 2016* [Slides](week-2/slides) &bull; [Board](week-2/board) &bull; [Homework](week-2/homework)  
 *25 Jan 2016* [Intro & Homework](week-1/intro)  

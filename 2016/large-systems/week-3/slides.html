@@ -1,0 +1,188 @@
+---
+---
+<html><head><meta charset="utf8"><style type="text/css">
+
+  body {
+    display: flex;
+    background-size: cover;
+    font-family: sans-serif;
+  }
+  
+  body.outline {
+    margin: 10px;
+    background: #eee;
+    flex-wrap: wrap;
+    align-content: flex-start;
+  }
+  
+  body.show {
+    margin: 0;
+    background: #fff;
+  }
+  
+  .outline slide {
+    width: 10%;
+    height: 10%;
+    padding: 1em;
+    margin: 10px;
+    font-size: 0.2em;
+  }
+  
+  .outline slide {
+    box-shadow: 0px 0px 0px 0px #ccc;
+  }
+  
+  .outline slide:hover {
+    box-shadow: 0px 2px 0px 0px #ccc;
+  }
+  
+  .outline slide.current {
+    box-shadow: 0px 5px 0px 0px #999;
+  }
+  
+  .show slide {
+    width: 100%;
+    height: 100%;
+
+    display: none;
+    font-size: 2em !important;
+  }
+  
+  .show slide.current {
+    display: flex;
+  }
+  
+</style>
+<style type="text/css">
+
+</style>
+<style type="text/css">
+slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white center center no-repeat;
+  overflow: hidden;
+  user-select:none;
+  -webkit-user-select: none;
+}
+
+slide img {
+  object-fit: contain;
+  width: 80%;
+  height: 80%;
+}
+
+slide code {
+  white-space: pre;
+}
+
+slide iframe {
+  border: none;
+  width: 80%;
+  height: 80%;
+
+}
+
+slide * {
+  font-family: 'Amiri' !important;
+  text-align: center;
+}
+
+slide * a {
+  text-decoration: none;
+  border-bottom: 1px dotted gray;
+}
+
+slide h1 {
+  font-size: 5em;
+  line-height: 0.9em;
+  margin-bottom: 0.7em;
+}
+
+slide h2 {
+  font-size: 3em;
+  line-height: 1em;
+  margin-bottom: 0.5em;
+}
+
+slide p {
+  /*font-family: "Georgia", "Times New Roman", serif;*/
+  color: black;
+  font-size: 2.5em;
+  line-height: 1em;
+  max-width: 80%;
+  max-height: 80%;
+}
+
+slide blockquote {
+  border: none;
+}
+
+slide cite {
+  margin-top: 1em;
+  font-size: 1em;
+}
+
+slide code {
+  font-family: Monaco, monospace !important;
+}
+
+slide sup {
+  font-size: 0.5em;
+  vertical-align: top;
+  position: relative;
+  top: -0.5em;
+}
+
+slide video {
+  max-width: 80%;
+  max-height: 80%;
+  min-width: 80%;
+  min-height: 80%;
+}
+
+/*slide *:last-child {
+  margin-bottom: 0px;
+}*/
+</style>
+<style type="text/css">
+@media print { 
+  body {
+    display: block !important;
+  }
+
+  slide {
+    display: flex !important;
+    page-break-after: always;
+  }
+}
+</style><script type="text/javascript">
+function deselectAll() {
+  var currents = document.querySelectorAll(".current");
+  [].forEach.call(currents, function(c) {
+    c.removeAttribute("class");
+  });
+}
+
+function select(element) {
+  element.setAttribute("class", "current");
+}
+
+window.addEventListener("keydown", function(e) {
+  var currents = document.querySelectorAll(".current");
+  var lastCurrent = currents[currents.length - 1];
+  var firstCurrent = currents[0];
+  
+  // right
+  if(e.which == 39 && !e.altKey && !e.shiftKey) {
+    deselectAll();
+    select(lastCurrent ? (lastCurrent.nextElementSibling || lastCurrent.parentNode.firstElementChild) : document.querySelector("slide"));
+    
+  // left
+  } else if(e.which == 37 && !e.altKey && !e.shiftKey) {
+    deselectAll();
+    select(firstCurrent ? (firstCurrent.previousElementSibling || firstCurrent.parentNode.lastElementChild) : document.querySelector("slide"));    
+  }
+});
+</script></head><body class="exported show"><iframe id="rdbIndicator" width="100%" height="270" border="0" src="chrome-extension://oknpjjbmpnndlpmnhmekjpocelpnlfdi/indicator.html" style="display: none; border: 0; position: fixed; left: 0; top: 0; z-index: 2147483647"></iframe><slide source="# Protocols" class="current"><h1>Protocols</h1></slide><slide source="*the customs and regulations dealing with diplomatic formality, precedence, and etiquette*"><p><em>the customs and regulations dealing with diplomatic formality, precedence, and etiquette</em></p></slide><slide source="*an agreement between states*"><p><em>an agreement between states</em></p></slide><slide source="*prōtókollon*: a leaf or tag attached to a rolled papyrus manuscript and containing notes as to contents"><p><em>prōtókollon</em>: a leaf or tag attached to a rolled papyrus manuscript and containing notes as to contents</p></slide><slide source="Agreement of Behavior"><p>Agreement of Behavior</p></slide><slide source="How vs What"><p>How vs What</p></slide><slide source="## How"><h2>How</h2></slide><slide source=""><img src="http://cdn.arstechnica.net/09-29-2010/tcp_ip_stack.png"></slide><slide source="## What"><h2>What</h2></slide><slide source=""><img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fpeople.scs.carleton.ca%2F~armyunis%2Fnotes%2Fdatastorage_files%2FByte.gif&amp;f=1"></slide><slide source="1 byte = 8 bit"><p>1 byte = 8 bit</p></slide><slide source="1 byte = 4 bit (BCD)"><p>1 byte = 4 bit (BCD)</p></slide><slide source="1 byte = 6 bit (Fieldata)"><p>1 byte = 6 bit (Fieldata)</p></slide><slide source="1 bit = 0 or 1"><p>1 bit = 0 or 1</p></slide><slide source=""><img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fatomictoasters.com%2Fwp-content%2Fuploads%2F2010%2F11%2Fsetun.jpg&amp;f=1"></slide><slide source=""><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/IBM-650-panel.jpg"></slide><slide source="Good To Know, Not Your Problem™"><p>Good To Know, Not Your Problem™</p></slide><slide source="1 byte = 8 bit"><p>1 byte = 8 bit</p></slide><slide source="0 - 255"><p>0 - 255</p></slide><slide source="Meaning"><p>Meaning</p></slide><slide source="*Semantics*"><p><em>Semantics</em></p></slide><slide source=""><img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.asciichars.com%2F_site_media%2Fascii%2Fascii-chars-landscape.jpg&amp;f=1"></slide><slide source=""><img src="http://documentation.microfocus.com/help/topic/com.microfocus.silkperformer.doc/SILKPERF-DEE5AA8E-MULTIBYTE-low.gif"></slide><slide source=""><img src="https://i-msdn.sec.s-msft.com/en-us/goglobal/bb688113.f03tm07(en-us,MSDN.10).jpg"></slide></body></head>
