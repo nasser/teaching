@@ -17,7 +17,7 @@ Use one or more web APIs to drive a visual and/or interactive sketch. The conten
 
 You are free to use any programming language and any API, but the most straightforward approach is to use [Processing](https://processing.org/) and an API that produces JSON or XML. Use the [code](https://gist.github.com/nasser/dc6c9b25628426acfe32) from class to build off of if you like.
 
-Useful Processing reference for this assignment:
+### Useful Processing reference
 
 * [`loadJSONObject`](https://processing.org/reference/loadJSONObject_.html) loads a [JSON](https://en.wikipedia.org/wiki/JSON) object from a file or the web
 * [`loadJSONArray`](https://processing.org/reference/loadJSONArray_.html) loads a [JSON](https://en.wikipedia.org/wiki/JSON) array from a file or the web
@@ -27,5 +27,7 @@ Useful Processing reference for this assignment:
 * [`Table`](https://processing.org/reference/Table.html) the type of object that is returned by `loadTable`
 * [`JSONObject`](https://processing.org/reference/JSONObject.html) the type of object that is returned by `loadJSONObject`
 * [`JSONArray`](https://processing.org/reference/JSONArray.html) the type of object that is returned by `loadJSONArray`
+
+### Submission
 
 Email me your code as an attachment or a link before Tuesday to get feedback on it. Come to class prepared to present your work, discuss your expeirence, the problems you faced, how you overcame them.
