@@ -11,7 +11,7 @@ year: 2016
 
 ## Resources
 
-[Sylabus](syllabus.pdf) &bull; [Software](software)
+[Syllabus](syllabus.pdf) &bull; [Software](software)
 
 ## Classes
 
