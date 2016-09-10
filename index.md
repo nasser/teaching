@@ -6,7 +6,7 @@ layout: page
 I teach at a few schools. These are my class blogs.
 
 ### 2016
-* [Parsons Large Systems]({{ site.url }}//2016/large-systems)
+* [Parsons Large Systems]({{ site.url }}/2016/large-systems)
 
 ### 2015
 * [NYU Poly Game Design Studio](http://dm6153.tumblr.com/)
