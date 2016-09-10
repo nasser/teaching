@@ -11,7 +11,7 @@ year: 2016
 
 **Due** 13 Feb 2016
 
-![](streetfighter.gif)
+![](../streetfighter.gif)
 
 1. Play a game of your choosing
 2. Pick an interesting moment
