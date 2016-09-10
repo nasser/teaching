@@ -7,7 +7,7 @@ semester: spring
 year: 2016
 ---
 
-![](http://clipartfreefor.com/cliparts/internet-clipart/cliparti1_internet-clipart_02.jpg)
+![](internet.jpg)
 
 ## Resources
 
