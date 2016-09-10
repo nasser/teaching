@@ -6,7 +6,7 @@ class: large systems
 semester: spring
 year: 2016
 ---
-`
+
 ![](http://clipartfreefor.com/cliparts/internet-clipart/cliparti1_internet-clipart_02.jpg)
 
 ## Resources
@@ -15,7 +15,10 @@ year: 2016
 
 ## Classes
 
-*29 Mar 2016* [Board](week-8/board) &bull; [Homework](week-8/homework)
+*19 Apr 2016* [Board](week-11/board) &bull; [Homework](week-11/homework)  
+*12 Apr 2016* [Board](week-10/board) &bull; [Code](https://gist.github.com/nasser/89f3600f09a8bce2aa2820b8b3160565) &bull; [Homework](week-10/homework)  
+
+*29 Mar 2016* [Board](week-8/board) &bull; [Homework](week-8/homework)  
 *8 Mar 2016* [Homework](week-7/homework) &bull; [Code](https://gist.github.com/nasser/a2af89fe8ed5c97791e6)  
 *1 Mar 2016* [Board](week-6/board) &bull; [Homework](week-6/homework) &bull; [Code](https://gist.github.com/nasser/2b985e5b27fa4908b1e1)  
 *23 Feb 2016* [Board](week-5/board) &bull; [Homework](week-5/homework)  
