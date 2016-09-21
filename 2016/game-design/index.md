@@ -11,7 +11,7 @@ year: 2016
 
 ## Resources
 
-[Syllabus](syllabus.pdf)
+[Syllabus](syllabus.pdf) &bull; [Games](games)
 
 ## Classes
 
