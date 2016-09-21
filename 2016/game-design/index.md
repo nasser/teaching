@@ -15,6 +15,8 @@ year: 2016
 
 ## Classes
 
+*20 Sep 2016* [Board](https://cdn.rawgit.com/nasser/62efdc9a3e39e25fd7dfc79f32c4d769/raw/sep-20.svg) &bull;
+              [Homework](week-3/homework)  
 *13 Sep 2016* [Board](https://cdn.rawgit.com/nasser/5b6cc7f1d83862c10bcbe4106df2cd94/raw/game-literacy.svg) &bull;
               [HTML Slides](week-2/slides) &bull; [PDF Slides](week-2/slides.pdf)  &bull;
               [Homework](week-2/homework)  
