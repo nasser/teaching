@@ -17,4 +17,5 @@ year: 2016
 * [Kentucky Route Zero](http://kentuckyroutezero.com/)
 * [GangBeasts](http://gangbeasts.game/)
 * [Nidhogg](http://www.nidhogggame.com/)
+* [Papers Please](http://papersplea.se/)
 * [Overwatch](https://playoverwatch.com/)
