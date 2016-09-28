@@ -15,6 +15,8 @@ year: 2016
 
 ## Classes
 
+*27 Sep 2016* [Board](https://cdn.rawgit.com/nasser/0e3368002f893a5e284bfdc3b385ff07/raw/production-planning.svg) &bull;
+              [Homework](week-4/homework)  
 *20 Sep 2016* [Board](https://cdn.rawgit.com/nasser/62efdc9a3e39e25fd7dfc79f32c4d769/raw/sep-20.svg) &bull;
               [Homework](week-3/homework)  
 *13 Sep 2016* [Board](https://cdn.rawgit.com/nasser/5b6cc7f1d83862c10bcbe4106df2cd94/raw/game-literacy.svg) &bull;
