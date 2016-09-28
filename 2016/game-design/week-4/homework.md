@@ -43,4 +43,4 @@ Using any task/project management software like [Trello](http://trello.com/), br
 * [A](https://coggle.it/diagram/V-bEUDQLDIRs_FgN#/64b54501ca8731ea3ae64d05da5875a06f2741d93a32230c1420520bd0f8bc2a)
 * [B](https://coggle.it/diagram/V-KEGGQVvXx6j4JH/c8e3d49cb8ea0ab02eb5f4732e89798e0815b0029009039c3546d0851679d71f)
 * [C](https://coggle.it/diagram/V-MgymQVvXx6kVjK/e9460fe7d114a3ff7759480c1c07b5c204d1a5632cb982496ae0653439028611)
-* [D](d.jpg)
+* [D](../d.jpg)
