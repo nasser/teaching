@@ -15,6 +15,7 @@ year: 2016
 * [Happy Wheels](http://www.totaljerkface.com/happy_wheels.tjf)
 * [N](http://www.thewayoftheninja.org/nv2.html)
 * [Excitebike](http://www.nesconsole.com/hp/excite-bike/) *– with the level editor!*
+* [Professor Fizzwizzle](http://www.shockwave.com/gamelanding/professorfizzwizzle.jsp)
 
 ## Paid Games
 * [Kentucky Route Zero](http://kentuckyroutezero.com/)
