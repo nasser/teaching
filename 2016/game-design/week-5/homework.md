@@ -19,6 +19,6 @@ Keep in mind:
 * Your game is made out of GameObjects
 * GameObjects are containers for Components
 * Components contain **state** (data)
-* Components react to **events** (behavior)\
+* Components react to **events** (behavior)
 * Components are either built in or 
 * You make games in Unity by mixing and matching Components on GameObjects
