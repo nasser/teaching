@@ -12,7 +12,7 @@ year: 2016
 **Due** 25 Oct 2016
 
 1. Build three prototypes in Unity using C# scripts
-2. You can use prototypes from the previous excersises, or new ideas
+2. You can use prototypes from the previous exercises, or new ideas
 3. If you use new ideas, make sure to go through the game brainstorming/game design document/punch list plan as before
 
 ### Twitch Stream
@@ -105,4 +105,3 @@ public class ScreamWhenTooFast : MonoBehaviour {
   }
 }
 ```
-
