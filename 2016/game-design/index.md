@@ -15,6 +15,9 @@ year: 2016
 
 ## Classes
 
+*25 Oct 2016* [Board](https://cdn.rawgit.com/nasser/288337b629e4e1e5df1a519ba0949c4c/raw/more-code.svg) &bull;
+              [Code](https://gist.github.com/nasser/09fcb75df79aa4b2c86337871d08c803) &bull;
+              [Homework](week-7/homework)  
 *18 Oct 2016* [Board](https://cdn.rawgit.com/nasser/4f3d288fc7a905a3b510cd7fe770957e/raw/unity.svg) &bull;
               [Homework](week-6/homework)  
 *11 Oct 2016* [Board](https://cdn.rawgit.com/nasser/c9b0146653f5845995261da48e958bf7/raw/unity-intro.svg) &bull;
