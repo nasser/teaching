@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Unity Cheat Sheet</title>
+  <meta name="description" content="Unity Cheat Sheet">
+  <meta name="author" content="Ramsey Nasser">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  
+  <style type="text/css">
+    .header h3 {
+      text-align: center;
+    }
+    
+    h5 {
+      margin-top: 1em;
+    }
+    
+    .row:first-child h5 {
+      margin-top: 0;
+    }
+    
+    img {
+      max-width: 100%;
+      display: block;
+    }
+    
+    img:hover {
+      border: 5px solid white;
+      position: relative;
+      max-width: none;
+      margin-left: -50%;
+      z-index: 10;
+    }
+    
+    code a {
+      color: black;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    .footer {
+      text-align: center;
+      opacity: 0.25;
+    }
+    
+    .footer:hover {
+      opacity: 1;
+    }
+    
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="row">
+    <div class="twelve columns">
+      <h1>The Unity Coding Cheat Sheet</h1>
+      <p>Most Unity specific code breaks down to three steps:</p>
+      <ol>
+        <li>Find a GameObject</li>
+        <li>Find a Component on that GameObject</li>
+        <li>Interact with that Component</li>
+      </ol>
+      <p>There are many ways to do each of the three steps, and you can mix and match them as you need.</p>
+    </div>
+  </div>
+  <div class="header row">
+    <div class="one-third column">
+      <h3>Get a GameObject</h3>
+    </div>
+    <div class="one-third column">
+      <h3>Get a Component</h3>
+    </div>
+    <div class="one-third column">
+      <h3>Interact with it</h3>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="one-third column">
+      <div class="row">
+        <h5>Use the current one</h5>
+        <p>By leaving out a GameObject, you are refering to the GameObject the component is attached to</p>
+        <pre><code><a href="http://docs.unity3d.com/ScriptReference/Component-transform.html">transform</a>.<a href="http://docs.unity3d.com/ScriptReference/Transform.Translate.html">Translate</a>(0, 10, 0);</code></pre>
+          
+      </div>
+      <div class="row">
+        <h5>Find objects by name</h5>
+        <p>Use <a href="http://docs.unity3d.com/ScriptReference/GameObject.Find.html">GameObject.Find</a> to search the scene for a GameObject with a particular name.</p>
+        <pre><code><a href="http://docs.unity3d.com/ScriptReference/GameObject.Find.html">GameObject.Find</a>("Asteroid").
+        <a href="http://docs.unity3d.com/ScriptReference/Component-transform.html">transform</a>.
+        <a href="http://docs.unity3d.com/ScriptReference/Transform.Translate.html">Translate</a>(0, 10, 0);</code></pre>
+      </div>
+      
+      <div class="row">
+        <h5>Find objects by tag</h5>
+        <p>You can use <a href="http://docs.unity3d.com/Manual/Tags.html">tags</a> to organize your objects. Use <a href="http://docs.unity3d.com/ScriptReference/GameObject.FindWithTag.html">GameObject.FindWithTag</a> to find a GameObject with a particular tag, or <a href="http://docs.unity3d.com/ScriptReference/GameObject.FindGameObjectsWithTag.html">GameObject.FindGameObjectsWithTag</a> to find <em>all</em> GameObjects with a particular tag.</p>
+        <pre><code><a href="http://docs.unity3d.com/ScriptReference/GameObject.FindWithTag.html">GameObject.FindWithTag</a>("Player").
+        <a href="http://docs.unity3d.com/ScriptReference/GameObject.SendMessage.html">SendMessage</a>("Jump");</code></pre>
+      </div>
+      <div class="row">
+        <h5>Use a variable</h5>
+        <p>You can store a reference to a GameObject in a variable and use that.</p>
+        <img src="images/gameobject-variable.gif" />
+        <p>You can drag GameObjects onto the variable in the editor.</p>
+        <pre><code>public <a href="http://docs.unity3d.com/ScriptReference/GameObject.html">GameObject</a> player;
+
+void <a href="http://docs.unity3d.com/ScriptReference/MonoBehaviour.Update.html">Update</a>() {
+  player.<a href="http://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html">GetComponent</a>&lt;<a href="http://docs.unity3d.com/ScriptReference/Component-rigidbody.html">Rigidbody</a>&gt;().
+    <a href="http://docs.unity3d.com/ScriptReference/Rigidbody.AddForce.html">AddForce</a>(0, 20, 0);
+}</code></pre>
+      </div>
+    </div>
+    
+    <div class="one-third column">
+      <div class="row">
+        <h5>Use the current one</h5>
+        <p>By leaving out a GameObject and a Component, you are refering to the component you are scripting. You can access its methods and fields directly.</p>
+        <pre><code>public float speed;
+
+void <a href="http://docs.unity3d.com/ScriptReference/MonoBehaviour.Update.html">Update</a>() {
+  Move();
+}
+
+void Move() {
+  <a href="http://docs.unity3d.com/ScriptReference/Component-transform.html">transform</a>.<a href="http://docs.unity3d.com/ScriptReference/Transform.Translate.html">Translate</a>(0, speed, 0);
+}</code></pre>
+        
+      </div>
+      <div class="row">
+        <h5>Get a built-in one</h5>
+        <p>You can access one of Unity's built in components using a shorthand syntax. All available components using this syntax are listed under 'Variables' on the <a href="http://docs.unity3d.com/ScriptReference/Component.html">Component reference page</a>.</p>
+        <pre><code><a href="https://docs.unity3d.com/ScriptReference/Component-gameObject.html">gameObject</a>.<a href="http://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html">GetComponent</a>&lt;<a href="http://docs.unity3d.com/ScriptReference/Component-rigidbody.html">Rigidbody</a>&gt;().
+  <a href="http://docs.unity3d.com/ScriptReference/Rigidbody.AddForce.html">AddForce</a>(0, 20, 0);</code></pre>
+      </div>
+      <div class="row">
+        <h5>Use GetComponent</h5>
+        <p>You can access any component on an object using the <a href="http://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html">GetComponent</a> method. This is how you will access your own components.</p>
+        <pre><code><a href="http://docs.unity3d.com/ScriptReference/GameObject.Find.html">GameObject.Find</a>("Submarine").
+        <a href="http://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html">GetComponent</a>&lt;Periscope&gt;.
+        Raise();</code></pre>
+        
+      </div>
+      <div class="row">
+        <h5>Use a variable</h5>
+        <p>You can store a reference to a Component in a variable and use that.</p>
+        <img src="images/component-variable.gif" />
+        <p>You can drag GameObjects onto the variable in the editor. Unity will extract the Component for you.</p>
+        <pre><code><a href="http://docs.unity3d.com/ScriptReference/Transform.html">Transform</a> playerPosition;
+
+void <a href="http://docs.unity3d.com/ScriptReference/MonoBehaviour.Update.html">Update</a>() {
+  <a href="http://docs.unity3d.com/ScriptReference/Component-transform.html">transform</a>.<a href="http://docs.unity3d.com/ScriptReference/Transform.LookAt.html">LookAt</a>(playerPosition);
+}</code></pre>
+      </div>
+      
+      </div>
+    
+    <div class="one-third column">
+      <div class="row">
+        <h5>Read Field</h5>
+        <p>You can read data stored in a component.</p>
+        <pre><code><a href="http://docs.unity3d.com/ScriptReference/GameObject.Find.html">GameObject.Find</a>("Player").
+          <a href="http://docs.unity3d.com/ScriptReference/Component-transform.html">transform</a>.
+          <a href="http://docs.unity3d.com/ScriptReference/Transform-position.html">position</a>.<a href="http://docs.unity3d.com/ScriptReference/Vector3-x.html">x</a>;</code></pre>
+      </div>
+      <div class="row">
+        <h5>Write Field</h5>
+        <p>You can change data stored in a component.</p>
+        <pre><code><a href="http://docs.unity3d.com/ScriptReference/GameObject.Find.html">GameObject.Find</a>("Player").
+          <a href="http://docs.unity3d.com/ScriptReference/Component-transform.html">transform</a>.
+          <a href="http://docs.unity3d.com/ScriptReference/Transform-position.html">position</a> = 
+          new <a href="http://docs.unity3d.com/ScriptReference/Vector3.html">Vector3</a>();</code></pre>
+      </div>
+      <div class="row">
+        <h5>Call Method</h5>
+        <p>You can call methods exposed by the component.</p>
+        <pre><code><a href="http://docs.unity3d.com/ScriptReference/GameObject.Find.html">GameObject.Find</a>("Player").
+          <a href="http://docs.unity3d.com/ScriptReference/Component-transform.html">transform</a>.
+          <a href="http://docs.unity3d.com/ScriptReference/Transform.Translate.html">Translate</a>(20, 30, 10);</code></pre>
+      </div>
+      <div class="row">
+        <h5>SendMessage</h5>
+        <p>You can trigger a similarly named method on all components attached to a GameObject using <a href="http://docs.unity3d.com/ScriptReference/GameObject.SendMessage.html">SendMessage</a>. This allows you to skip specifying a component.</p>
+        <pre><code><a href="http://docs.unity3d.com/ScriptReference/GameObject.Find.html">GameObject.Find</a>("Player").<a href="http://docs.unity3d.com/ScriptReference/GameObject.SendMessage.html">SendMessage</a>("Dance");</code></pre>
+      </div>
+    </div>
+  </div>
+    <div class="footer row">
+      <div class="twelve columns">
+        <p><a href="https://twitter.com/ra">@ra</a> loves you and wants you to succeed</p>
+      </div>
+    </div>
+
+</div>
+
+</body>
+</html>
