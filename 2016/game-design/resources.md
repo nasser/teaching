@@ -7,5 +7,6 @@ semester: fall
 year: 2016
 ---
 
-## Videos
-* [Unity Prototyping](https://www.youtube.com/watch?v=y3-s7ZfwUAg) — Complete prototyping session in Unity, from mindmap to working game.
+
+* [Unity Cheat Sheet](../unity-cheat-sheet) — Overview of Unity specific code
+* [Unity Prototyping Stream](https://www.youtube.com/watch?v=y3-s7ZfwUAg) — From mindmap to working game in 2.5 hours
