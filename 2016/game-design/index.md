@@ -15,6 +15,9 @@ year: 2016
 
 ## Classes
 
+*1 Nov 2016* [Board](https://cdn.rawgit.com/nasser/6677de948f7c2723b3089e38cf1f4afd/raw/linear.svg) &bull;
+              [Code](https://gist.github.com/nasser/705a2c6bbfd94b673f245fd0da0e26b4) &bull;
+              [Homework](week-8/homework)  
 *25 Oct 2016* [Board](https://cdn.rawgit.com/nasser/288337b629e4e1e5df1a519ba0949c4c/raw/more-code.svg) &bull;
               [Code](https://gist.github.com/nasser/09fcb75df79aa4b2c86337871d08c803) &bull;
               [Homework](week-7/homework)  
