@@ -15,6 +15,9 @@ year: 2016
 
 ## Classes
 
+*8 Nov 2016* [Board](https://cdn.rawgit.com/nasser/337407fe229c306ecf42f9f408acad7c/raw/physics.svg) &bull;
+              [Code](https://www.dropbox.com/s/pmkyfflabzmspby/NYU-Unity-Physics.zip?dl=0) &bull;
+              [Homework](week-9/homework)  
 *1 Nov 2016* [Board](https://cdn.rawgit.com/nasser/6677de948f7c2723b3089e38cf1f4afd/raw/linear.svg) &bull;
               [Code](https://gist.github.com/nasser/705a2c6bbfd94b673f245fd0da0e26b4) &bull;
               [Homework](week-8/homework)  
