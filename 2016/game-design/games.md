@@ -18,6 +18,7 @@ year: 2016
 * [Professor Fizzwizzle](http://www.shockwave.com/gamelanding/professorfizzwizzle.jsp)
 
 ## Paid Games
+* [A Good Bundle](https://itch.io/b/149/a-good-bundle)
 * [Kentucky Route Zero](http://kentuckyroutezero.com/)
 * [GangBeasts](http://gangbeasts.game/)
 * [Nidhogg](http://www.nidhogggame.com/)

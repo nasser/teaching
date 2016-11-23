@@ -15,6 +15,8 @@ year: 2016
 
 ## Classes
 
+*22 Nov 2016* [Board](https://cdn.rawgit.com/nasser/d3a350adce76b5a2aa7fa97bd61c0dab/raw/playtesting.svg) &bull;
+              [Homework](week-11/homework)  
 *15 Nov 2016* [Board](https://cdn.rawgit.com/nasser/12ae940c60e17eb299826c926bb7c00c/raw/time.svg) &bull;
               [Code](https://gist.github.com/nasser/2f0c8d0eefdf43ced2135d2a8c91acca) &bull;
               [Homework](week-10/homework)  
