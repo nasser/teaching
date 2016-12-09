@@ -6,6 +6,7 @@ layout: page
 I teach at a few schools. These are my class blogs.
 
 ### 2016
+* [SFPC Radical Computer Science]({{ site.url }}/2016/radical-computer-science)
 * [NYU Tandon Game Design Studio]({{ site.url }}/2016/game-design)
 * [Parsons Large Systems]({{ site.url }}/2016/large-systems)
 
