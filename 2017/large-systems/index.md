@@ -15,5 +15,5 @@ year: 2017
 
 ## Classes
 
-<!-- *31 Jan 2017* [Homework](week-2/homework) &bull; [Board](#)   -->
+*31 Jan 2017* [Homework](week-2/homework) &bull; [Board](https://cdn.rawgit.com/nasser/ba3a02bc9507df567a7c75a7118ae54a/raw/internet.svg)  
 *24 Jan 2017* [Intro](week-1/intro)  
