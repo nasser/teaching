@@ -11,7 +11,7 @@ year: 2017
 
 ## Resources
 
-[TA Office Hours](https://docs.google.com/a/newschool.edu/spreadsheets/d/1_DWSGzCiGWf01tYEVkPJZDQHjvO7YcNJ3Dw0MAoc77A/edit?usp=sharing) &bull; [Syllabus](syllabus.pdf)
+[TA Office Hours](https://docs.google.com/a/newschool.edu/spreadsheets/d/1_DWSGzCiGWf01tYEVkPJZDQHjvO7YcNJ3Dw0MAoc77A/edit?usp=sharing) &bull; [Syllabus](syllabus.pdf) &bull; [Links](links)
 
 ## Classes
 
