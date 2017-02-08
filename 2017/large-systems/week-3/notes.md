@@ -15,6 +15,8 @@ We focused on the dotted line this week, or what moves in between systems.
 
 Specifically, we focused on the *formatting* of that data. The key realization was that systems can only move *byte* between each other. What those bytes actually *mean* is something that has to be agreed upon before hand. Another way to think of it is that bytes are just numbers between 0 and 255, and all you can do is send a stream of such numbers between systems. That is the dotted line at the most basic level. What those numbers *represent* is what both sides need to agree on. This agreement is what's called a *protocol*.
 
+#### Byte Protocols
+
 One way of assigning meaning to bytes is to decide that certain bytes mean certain things. For example, if you are sensing the temperature in five rooms, and you want to design a system to send that information between computers, you could decide that the first byte is the temperature of room 1, the second byte is the temperature of room 2, and so on, such that five bytes is the total size of your packet.
 
 Thinking in terms of bytes is clumsy and confusing, but very efficient as far as computers are concerned. In practice, you will only design byte-protocols when interacting with underpowered hardware like Arduino, but as an example of something we all use, the IP protocol's packets are specified by bytes.
@@ -23,7 +25,11 @@ Thinking in terms of bytes is clumsy and confusing, but very efficient as far as
 
 The "total length" is *always* the 3rd and 4th byte. The "source address" is *always* bytes 12-16. Again, this data just shows up as a stream of bytes, and we only know to interpret certain bytes in a certain way (that is, we only know that they *mean* one thing and not another) because we all agreed to this protocol.
 
+#### Who Controls The Internet?
+
 In the reliance on agreement is unavoidable in Large Systems. It's the only way to communicate with a system you did not build, and the only way to design a system that can be communicated with by something you did not build. The fact that you can write brand new code that the designers of the internet did not anticipate and still communicate over that same internet is an example of this working. The fact that you can talk to the Twitter API even though they've never seen your code is an example of this working. The fact that everything depends on humans agreeing brings a lot of this into the realm of *diplomacy*. ICANN and IANA came up in class, as did Ted Cruz's asinine "internet give away video" (which I will not link to). An excellent answer to the question of who controls the internet was [published in Fusion](http://fusion.net/story/343533/who-controls-the-internet/) a few months ago and is a good deep read into the diplomacy and politics of the agreements that hold the internet together.
+
+#### "Human Readable"
 
 In practice, most modern protocols that we will design and interact with will be "human readable", which means you can look at the bytes directly and they will look like "text". This usually means that the bytes are encoded in [ASCII](https://en.wikipedia.org/wiki/ASCII) and the protocol is designed around English language keywords. Again, this does not change the fact that we're still dealing with bytes, we're just agreeing to interpret the bytes as text, and look for specific patterns of text (words) that will have special meaning. The text encoding section later on gets into this.
 
@@ -43,6 +49,8 @@ Cookie: PHPSESSID=r2t5uvjq435r4q7ib3vtdjq120
 Pragma: no-cache
 Cache-Control: no-cache
 ```
+
+#### Serialization Formats
 
 Instead of inventing a new format for every new protocols, most will use an existing *serialization format* that already has wide adoption. We looked at [JSON](https://en.wikipedia.org/wiki/JSON) extensively in class, but alternatives include [XML](https://en.wikipedia.org/wiki/XML), [YAML](https://en.wikipedia.org/wiki/YAML), and others.
 
