@@ -15,6 +15,7 @@ year: 2017
 
 ## Classes
 
+*14 Feb 2017* [Homework](week-4/homework) &bull; [Notes](week-4/notes) &bull; [Board](https://cdn.rawgit.com/nasser/08bebba2c3f010110a18f9dce9adedc4/raw/web-apis.svg) &bull; [Code](https://gist.github.com/nasser/85f70cae838e9233c9f5c4908b5db669)  
 *7 Feb 2017* [Homework](week-3/homework) &bull; [Notes](week-3/notes) &bull; [Board](https://cdn.rawgit.com/nasser/9f90a170612c184e2a6856a36bf189c5/raw/formats.svg)  
 *31 Jan 2017* [Homework](week-2/homework) &bull; [Notes](week-2/notes) &bull; [Board](https://cdn.rawgit.com/nasser/ba3a02bc9507df567a7c75a7118ae54a/raw/internet.svg)  
 *24 Jan 2017* [Intro](week-1/intro)  
