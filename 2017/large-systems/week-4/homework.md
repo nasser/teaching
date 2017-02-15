@@ -17,4 +17,4 @@ Visualize data coming from a Web API
 2. Sign up for it and get an access key if you need to
 3. Pull the data into a p5 sketch and visualize it
 
-You can use any API you like, or use [this list](https://github.com/toddmotto/public-apis) as inspiration.
+You can use any API you like, or use [this list](https://github.com/toddmotto/public-apis) or [this one](https://en.wikipedia.org/wiki/List_of_open_APIs) as inspiration.
