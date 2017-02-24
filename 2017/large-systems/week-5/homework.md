@@ -29,6 +29,6 @@ If you manage to get the Visualization assignment done, try and get a head start
 Because OSC is its own protocol and *not* the web, we rely entirely on a web browser to use it, so our usual p5.js set up will need to change a bit. Your options include:
 
 * [p5js-osc](https://github.com/genekogan/p5js-osc) - This involves setting up a node.js server that your p5.js code talks to
-* [node's osc](https://www.npmjs.com/package/osc) + [electron](https://github.com/nasser/electron-quick-start) - This involves using a node.js package directly inside an electron app. You can use the electron/p5.js quick start repository I set up
+* [node's osc](https://www.npmjs.com/package/osc) + [electron](https://github.com/nasser/electron-quick-start) - This involves using a node.js package directly inside an electron app. You can use the [electron/p5.js quick start repository](https://github.com/nasser/electron-quick-start) I set up
 * [oscP5](http://www.sojamo.de/libraries/oscP5/) - This is OSC from traditional, non-JavaScript Processing. If you are more comfortable with this, then go for it.
 * [ofxOsc](http://openframeworks.cc/documentation/ofxOsc/) - OSC is built into openframeworks, so you can use that if you're more comfortable, too.
