@@ -9,7 +9,7 @@ semester: spring
 year: 2017
 ---
 
-**Due** 6 Mar 2016
+**Due** 7 Mar 2017
 
 ## Visualization
 Use the additional JavaScript work we did in class to approach [last week's homework](../../week-4/homework) again. Try and have a complete visualization to share with the class the next time we meet.

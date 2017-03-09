@@ -15,6 +15,7 @@ year: 2017
 
 ## Classes
 
+*7 Mar 2017* [Homework](week-6/homework) &bull; [Notes](week-6/notes) &bull; [Board](https://cdn.rawgit.com/nasser/471efa2611b33f19f349348c5d1681d8/raw/local-networks.svg) &bull; [Code](https://gist.github.com/nasser/c6993f3112a93388de2ce3b7513d6f34)  
 *21 Feb 2017* [Homework](week-5/homework) &bull; [Notes](week-5/notes) &bull; [Board](https://cdn.rawgit.com/nasser/897a3f84edf45ace9105276f541add41/raw/javascript-browser-wars.svg) &bull; [Code](https://gist.github.com/nasser/1c2392ec17021e5ef41e6ccd74774232)  
 *14 Feb 2017* [Homework](week-4/homework) &bull; [Notes](week-4/notes) &bull; [Board](https://cdn.rawgit.com/nasser/08bebba2c3f010110a18f9dce9adedc4/raw/web-apis.svg) &bull; [Code](https://gist.github.com/nasser/85f70cae838e9233c9f5c4908b5db669)  
 *7 Feb 2017* [Homework](week-3/homework) &bull; [Notes](week-3/notes) &bull; [Board](https://cdn.rawgit.com/nasser/9f90a170612c184e2a6856a36bf189c5/raw/formats.svg)  
