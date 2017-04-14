@@ -15,6 +15,7 @@ year: 2017
 
 ## Classes
 
+| 11 Apr 2017 | [Homework](week-9/homework)  | [Notes](week-9/notes) | [Board](https://cdn.rawgit.com/nasser/eaf2acf1a3ec68e18af76aaaa6750904/raw/socketio.svg) | [Code](https://gist.github.com/nasser/eafb8077dcb23e473808e7ccee3e863c)  
 | 4 Apr 2017 | [Homework](week-8/homework)  | [Notes](week-8/notes) | [Board](https://cdn.rawgit.com/nasser/4cb71e4a4d9ee9be3674615c8b69f0c3/raw/servers.svg) | [Code](https://gist.github.com/nasser/70f76b500ac7c8fd91e4a38bb64e0970)  
 | 28 Mar 2017 | [Homework](week-7/homework)  | [Notes](week-7/notes) | [Board](https://cdn.rawgit.com/nasser/26bea17280958a2c1a6b5bf0eaa5cb84/raw/pong.svg) | [Code](https://gist.github.com/nasser/6ab31f53d22392b1fe0d59c9c55ee6c5)  
 | 7 Mar 2017 | [Homework](week-6/homework)  | [Notes](week-6/notes) | [Board](https://cdn.rawgit.com/nasser/471efa2611b33f19f349348c5d1681d8/raw/local-networks.svg) | [Code](https://gist.github.com/nasser/c6993f3112a93388de2ce3b7513d6f34)  
