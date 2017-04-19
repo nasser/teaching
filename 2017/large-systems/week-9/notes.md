@@ -2,7 +2,7 @@
 layout: post
 title: Week 9 Notes
 
-date: 1 Apr 2017
+date: 11 Apr 2017
 school: parsons
 class: large systems
 semester: spring
