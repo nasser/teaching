@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Local Networks
+title: Databases
 
 date: 11 Apr 2017
 school: parsons
