@@ -1,7 +1,6 @@
 ---
 layout: post
-title: RS-232 Serial
-
+title: Microcontroller ↔ Microcontroller 
 date: 25 Apr 2017
 school: parsons
 class: large systems
