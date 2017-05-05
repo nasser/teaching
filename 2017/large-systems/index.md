@@ -15,6 +15,7 @@ year: 2017
 
 ## Classes
 
+| 2 May 2017 | [Homework](week-12/homework)  | *Soon* <!-- [Notes](week-12/notes) --> | [Board](https://cdn.rawgit.com/nasser/574487a6be5fafb6ed6acdaf58ea2771/raw/spi.svg) | [Code](https://gist.github.com/nasser/6887c50afc91f1147bcf60b9f66792de)  
 | 25/26 Apr 2017 | [Homework](week-11/homework)  | [Notes](week-11/notes) | [Board](https://cdn.rawgit.com/nasser/2585b57ab8e04cf562e8c53efc0c8b6c/raw/serial.svg) | [Code](https://gist.github.com/nasser/13dc05f26a42d6ac7fde86793611aafa)  
 | 18 Apr 2017 | [Homework](week-10/homework)  | [Notes](week-10/notes) | [Board](https://cdn.rawgit.com/nasser/c0e422d09f70b8b201aaf4dea33157cf/raw/databases.svg) | [Code](https://gist.github.com/nasser/5f28100752a42c355b7d1cea72f76529)  
 | 11 Apr 2017 | [Homework](week-9/homework)  | [Notes](week-9/notes) | [Board](https://cdn.rawgit.com/nasser/eaf2acf1a3ec68e18af76aaaa6750904/raw/socketio.svg) | [Code](https://gist.github.com/nasser/eafb8077dcb23e473808e7ccee3e863c)  
