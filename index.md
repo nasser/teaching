@@ -7,6 +7,7 @@ I teach at a few schools. These are my class blogs.
 
 ### 2017
 * [Parsons Large Systems]({{ site.url }}/2017/large-systems)
+* [NYU Tandon Game Design Studio]({{ site.url }}/2017/game-design)
 
 ### 2016
 * [SFPC Radical Computer Science]({{ site.url }}/2016/radical-computer-science)
