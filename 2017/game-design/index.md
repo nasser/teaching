@@ -11,4 +11,9 @@ year: 2017
 
 ## Resources
 
-[Syllabus](syllabus.pdf)
+[Syllabus](syllabus.pdf) &bull; [Games](games)
+
+## Classes
+
+*5 Sep 2017* [Board](https://cdn.rawgit.com/nasser/079fca31b5a2553353c66db2e76e944c/raw/games-intro.svg) &bull;
+             [Homework](week-1/homework)  
