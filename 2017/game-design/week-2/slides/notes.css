@@ -1,0 +1,59 @@
+body.notes {
+  margin: 0px;
+  background: #eee;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+body.notes slide blockquote {
+  display: none;
+}
+
+body.notes slide.current blockquote {
+  display: block;
+}
+
+body.notes slide.current blockquote {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 50%;
+  height: 100%;
+  overflow: scroll;
+  margin: 0;
+}
+
+body.notes slide.current blockquote * {
+  font-family: monospace !important;
+  font-size: 1em;
+  text-align: left;
+}
+
+body.notes slide.current blockquote > * {
+  padding: 1em;
+  margin-top: 0;
+}
+
+body.notes slide {
+  width: 50%;
+  /*height: 100%;*/
+
+  display: none;
+  font-size: 2em !important;
+}
+
+body.notes slide.current {
+  display: flex;
+  width: 50%;
+  height: 100%;
+  border-right: 2px solid #eee;
+}
+
+body.notes slide.current + slide {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  height: 50%;
+  z-index: -10;
+}

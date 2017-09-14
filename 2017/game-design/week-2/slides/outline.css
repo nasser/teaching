@@ -1,0 +1,32 @@
+body.outline,
+body.outline slides {
+  margin: 0px;
+  background: #eee;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  display: flex;
+}
+
+body.outline slide {
+  width: 10%;
+  height: 10%;
+  /*padding: 1em;*/
+  margin: 10px;
+  font-size: 0.2em;
+}
+
+body.outline slide blockquote {
+  display: none;
+}
+
+body.outline slide {
+  box-shadow: 0px 0px 0px 0px #ccc;
+}
+
+body.outline slide:hover {
+  box-shadow: 0px 2px 0px 0px #ccc;
+}
+
+body.outline slide.current {
+  box-shadow: 0px 5px 0px 0px #999;
+}

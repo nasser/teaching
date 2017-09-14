@@ -1,0 +1,22 @@
+timer {
+  background: black;
+  color: white;
+  width: 120px;
+  height: 120px;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 30px;
+  line-height: 60px;
+  border-radius: 15px;
+  text-align: center;
+  margin: 20px;
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  margin-left: -60px;
+  display: none;
+}
+
+body.notes timer {
+  display: block;
+}
