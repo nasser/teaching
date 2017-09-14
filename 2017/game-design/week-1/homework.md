@@ -2,11 +2,11 @@
 layout: post
 title: Play A Game
 
-date: 7 Sep 2016
+date: 5 Sep 2017
 school: nyu
 class: game design
 semester: fall
-year: 2016
+year: 2017
 ---
 
 **Due** 12 Sep 2017
