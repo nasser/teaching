@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-## Class Blogs
 
 I teach at a few schools. These are my class blogs.
 

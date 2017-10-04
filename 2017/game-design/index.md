@@ -15,6 +15,8 @@ year: 2017
 
 ## Classes
 
+*3 Oct 2017* [Board](https://cdn.rawgit.com/nasser/697aa600c417743fb8580a6bedbf8002/raw/abstract-games.svg) &bull;
+             [Homework](week-5/homework)  
 *26 Sep 2017* [Board](https://cdn.rawgit.com/nasser/a0898700397d53abaae2d079ae7a3acd/raw/production.svg) &bull;
               [Homework](week-4/homework)  
 *19 Sep 2017* [Board](https://cdn.rawgit.com/nasser/938b08d05db6a1dc70054f63be75bc75/raw/mindmap.svg) &bull;
