@@ -11,10 +11,12 @@ year: 2017
 
 ## Resources
 
-[Syllabus](syllabus.pdf) &bull; [Games](games)
+[Syllabus](syllabus.pdf) &bull; [Games](games) &bull; [Unity Cheat Sheet](http://nas.sr/teaching/2016/game-design/unity-cheat-sheet/)
 
 ## Classes
 
+*10 Oct 2017* [Code](https://gist.github.com/nasser/de81bcd7910d732fb43e2a3c9c984987) &bull;
+             [Homework](week-6/homework)  
 *3 Oct 2017* [Board](https://cdn.rawgit.com/nasser/697aa600c417743fb8580a6bedbf8002/raw/abstract-games.svg) &bull;
              [Homework](week-5/homework)  
 *26 Sep 2017* [Board](https://cdn.rawgit.com/nasser/a0898700397d53abaae2d079ae7a3acd/raw/production.svg) &bull;
