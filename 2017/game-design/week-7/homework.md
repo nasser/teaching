@@ -2,7 +2,7 @@
 layout: post
 title: Scripts &rarr; Systems
 
-date: 25 Oct 2017
+date: 17 Oct 2017
 school: nyu
 class: game design
 semester: fall
