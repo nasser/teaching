@@ -15,6 +15,9 @@ year: 2017
 
 ## Classes
 
+*31 Oct 2017* [Code](week-9/PhysicsBumper.zip) &bull;
+              [Board](https://rawgit.com/nasser/0810a7a68c1532279e73e64995e6f0d1/raw/physics.svg) &bull;
+              [Homework](week-9/homework)  
 *24 Oct 2017* [Code](week-8/ArtAndMotion.zip) &bull;
               [Board](https://cdn.rawgit.com/nasser/2d13030baa30081faae895e9a4ffea91/raw/linear.svg) &bull;
               [Homework](week-8/homework)  
