@@ -15,6 +15,9 @@ year: 2017
 
 ## Classes
 
+*7 Nov 2017* [Code](https://gist.github.com/nasser/b239dd4a8fc493825d8d49977ae1ac2b) &bull;
+              [Board](https://cdn.rawgit.com/nasser/86df86ee33bf515ffe108146940485d8/raw/time.svg) &bull;
+              [Homework](week-10/homework)  
 *31 Oct 2017* [Code](week-9/PhysicsBumper.zip) &bull;
               [Board](https://rawgit.com/nasser/0810a7a68c1532279e73e64995e6f0d1/raw/physics.svg) &bull;
               [Homework](week-9/homework)  
