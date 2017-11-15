@@ -15,6 +15,9 @@ year: 2017
 
 ## Classes
 
+*14 Nov 2017* [Code](week-11/TankGame.zip) &bull;
+              [Board](https://cdn.rawgit.com/nasser/f9a2d6f51feb41cd78f9f7c8a1146513/raw/flexible.svg) &bull;
+              [Homework](week-11/homework)  
 *7 Nov 2017* [Code](https://gist.github.com/nasser/b239dd4a8fc493825d8d49977ae1ac2b) &bull;
               [Board](https://cdn.rawgit.com/nasser/86df86ee33bf515ffe108146940485d8/raw/time.svg) &bull;
               [Homework](week-10/homework)  
