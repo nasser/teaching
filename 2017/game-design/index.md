@@ -15,6 +15,9 @@ year: 2017
 
 ## Classes
 
+*21 Nov 2017* [Code](week-12/AI.zip) &bull;
+              [Board](https://cdn.rawgit.com/nasser/a8c00457f5fd3223a878b8fce191dc06/raw/ai-playtest.svg) &bull;
+              [Homework](week-12/homework)  
 *14 Nov 2017* [Code](week-11/TankGame.zip) &bull;
               [Board](https://cdn.rawgit.com/nasser/f9a2d6f51feb41cd78f9f7c8a1146513/raw/flexible.svg) &bull;
               [Homework](week-11/homework)  
