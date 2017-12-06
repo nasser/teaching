@@ -18,7 +18,7 @@ Over the next two weeks make sure to attend at least one of the Playtest Thursda
 If you need additional help, I will be in the Game Innovation Lab in the ground floor of 5 Metrotech the following days and hours:
 
 * Saturday the 9th: 3pm - 7pm
-* Sunday the 17th: 12pm - 7pm
+* Sunday the 17th: 10am - 2pm
 
 Shoot me an email if you want to come by!
 
