@@ -15,6 +15,7 @@ year: 2017
 
 ## Classes
 
+*19 Dec 2017* [Next Steps](week-15/next-steps)  
 *5 Dec 2017* [Homework](week-14/homework)  
 *28 Nov 2017* [Board](https://cdn.rawgit.com/nasser/9726843c78899b8fa34e3b59787bc9a0/raw/playtest.svg) &bull;
               [Homework](week-13/homework)  
