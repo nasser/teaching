@@ -25,6 +25,7 @@ There's usually a game jam going on that you can join. It's a great way to get a
 Sharing your work and engaging with other people making games is the best way to grow as a game designer.
 
 * [itch.io](https://itch.io) – Free community for indies. They host games, and you can even sell stuff!
+* [NYU Game Center Incubator](http://gamecenter.nyu.edu/2018-nyu-game-center-incubator-round-one-applications-open/) Funding and support to develop your games further. Calls open now!
 * [Babycastles](https://babycastles.com/) – A wonderfully weird NYC video game gallery. They have he best events!
 * [Eyebeam](http://www.eyebeam.org/) – Not specifically games focused, but Eyebeam is a magical place where art and technology collide.
 
