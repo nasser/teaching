@@ -4,6 +4,9 @@ layout: page
 
 I teach at a few schools. These are my class blogs.
 
+### 2018
+* [Parsons Large Systems]({{ site.url }}/2018/large-systems)
+
 ### 2017
 * [Parsons Large Systems]({{ site.url }}/2017/large-systems)
 * [NYU Tandon Game Design Studio]({{ site.url }}/2017/game-design)
