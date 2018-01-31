@@ -15,5 +15,7 @@ year: 2018
 
 ## Classes
 
-*23 Dec 2018* [Homework](week-1/homework) &bull;
+*30 Jan 2018* [Homework](week-2/homework) &bull;
+              [Board](https://cdn.rawgit.com/nasser/0c33f9688064e6bf0959e3e1eed5e642/raw/internet.svg)  
+*23 Jan 2018* [Homework](week-1/homework) &bull;
               [Board](https://cdn.rawgit.com/nasser/6451598807a7e7da13426b51a9840354/raw/large-systems-intro.svg)
