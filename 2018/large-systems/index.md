@@ -15,6 +15,8 @@ year: 2018
 
 ## Classes
 
+*6 Feb 2018* [Homework](week-3/homework) &bull;
+             [Board](https://cdn.rawgit.com/nasser/a04c7479b733b6a4b107879d42419aaa/raw/serialization.svg)  
 *30 Jan 2018* [Homework](week-2/homework) &bull;
               [Board](https://cdn.rawgit.com/nasser/0c33f9688064e6bf0959e3e1eed5e642/raw/internet.svg)  
 *23 Jan 2018* [Homework](week-1/homework) &bull;
