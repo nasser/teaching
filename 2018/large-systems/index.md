@@ -14,7 +14,10 @@ year: 2018
 [Syllabus](PGTE_5566_A_NASSER_SP18.pdf)
 
 ## Classes
-*13 Feb 2018* [Homework](week-3/homework) &bull;
+*20 Feb 2018* [Homework](week-5/homework) &bull;
+              [Board](https://cdn.rawgit.com/nasser/65c191d8eae2689a280f864cd67b1b0c/raw/javascript.svg) &bull;
+              [Code](https://gist.github.com/nasser/2eee57270ba282c67158803f61bc8e34)  
+*13 Feb 2018* [Homework](week-4/homework) &bull;
               [Board](https://cdn.rawgit.com/nasser/ad4b0038d366010beacedc263b75ab1b/raw/apis.svg)  
 *6 Feb 2018* [Homework](week-3/homework) &bull;
              [Board](https://cdn.rawgit.com/nasser/a04c7479b733b6a4b107879d42419aaa/raw/serialization.svg) &bull;
