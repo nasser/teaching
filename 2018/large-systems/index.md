@@ -14,6 +14,9 @@ year: 2018
 [Syllabus](PGTE_5566_A_NASSER_SP18.pdf)
 
 ## Classes
+*13 Mar 2018* [Homework](week-8/homework) &bull;
+              [Board](https://cdn.rawgit.com/nasser/beb22392f56b72073165f89793bac235/raw/electron.svg) &bull;
+              [Code](https://gist.github.com/nasser/395510e906192f8ba27c078d7ed95f37)  
 *6 Mar 2018* [Homework](week-7/homework) &bull;
              [Board](https://cdn.rawgit.com/nasser/35c3dc1d119db056cd3acc65aa5c7396/raw/local-networks.svg) &bull;
              [Code](https://gist.github.com/nasser/395510e906192f8ba27c078d7ed95f37)  
