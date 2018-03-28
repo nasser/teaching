@@ -22,7 +22,7 @@ Your app will need
 3. To allow the *local user* to choose a color for their paint
 4. To display the *remote user's* painting using their color on the canvas in real time
 
-You may work in groups if you like, and you may use whatever platform you want as long as it can communicate over OSC and fulfill the above list. I will be giving examples in node and Electron.
+You may work in groups if you like, and you may use whatever platform you want as long as it can communicate over OSC and fulfill the above list. I will be providing examples in node and Electron.
 
 I recommend the following approach:
 
@@ -43,5 +43,5 @@ The following messages are allowed:
   * an application should send this message when their *local user* moves their paintbrush vertically
   * when an application receives this message they should update their *remote user*'s paintbrush and draw for them
 * `/color` `string`
-  * an application should send this message when their `local user` changes their color
+  * an application should send this message when their *local user* changes their color
   * when an application receives this message they should update their *remote user*'s paint color and use that color going forward
