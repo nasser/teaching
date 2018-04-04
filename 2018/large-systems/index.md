@@ -15,6 +15,7 @@ year: 2018
 
 ## Classes
 *3 Apr 2018* [Homework](week-10/homework) &bull;
+             [Board](https://cdn.rawgit.com/nasser/8e28bab5f859bf7dc3425a554dae245d/raw/cloud.svg) &bull;
              [Code](https://gist.github.com/nasser/112593601763a7edff8b5e229d41c595)  
 *27 Mar 2018* [Homework](week-9/homework) &bull;
               [Code](https://github.com/nasser/large-systems-2018-midterm-demo)  
