@@ -14,6 +14,8 @@ year: 2018
 [Syllabus](PGTE_5566_A_NASSER_SP18.pdf)
 
 ## Classes
+*3 Apr 2018* [Homework](week-10/homework) &bull;
+             [Code](https://gist.github.com/nasser/112593601763a7edff8b5e229d41c595)  
 *27 Mar 2018* [Homework](week-9/homework) &bull;
               [Code](https://github.com/nasser/large-systems-2018-midterm-demo)  
 *13 Mar 2018* [Homework](week-8/homework) &bull;
