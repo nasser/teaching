@@ -14,6 +14,8 @@ year: 2018
 [Syllabus](PGTE_5566_A_NASSER_SP18.pdf)
 
 ## Classes
+*10 Apr 2018* [Homework](week-11/homework) &bull;
+              [Board](https://cdn.rawgit.com/nasser/52bbb62d06eed725b7c948ee1bc0ddbd/raw/deploying.svg)  
 *3 Apr 2018* [Homework](week-10/homework) &bull;
              [Board](https://cdn.rawgit.com/nasser/8e28bab5f859bf7dc3425a554dae245d/raw/cloud.svg) &bull;
              [Code](https://gist.github.com/nasser/112593601763a7edff8b5e229d41c595)  
