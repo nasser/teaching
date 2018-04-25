@@ -14,6 +14,9 @@ year: 2018
 [Syllabus](PGTE_5566_A_NASSER_SP18.pdf)
 
 ## Classes
+*24 Apr 2018* [Homework](week-13/homework) &bull;
+              [Board](https://cdn.rawgit.com/nasser/7ca2caa338f8daf1835c1ad223bec646/raw/8cc324ab2dc40d50e0b311f844dff3381b21be0a/hardware.svg) &bull;
+              [Code](https://gist.github.com/nasser/c4b11cd4566cdbfa60457e0e12c61017)  
 *17 Apr 2018* [Homework](week-12/homework) &bull;
               [Board](https://cdn.rawgit.com/nasser/5ceb2d4adc7703745fa7200950664303/raw/socketio.svg) &bull;
               [Code](https://gist.github.com/nasser/19b47448ca8e658ddbd9c2fb8d55520a)  
